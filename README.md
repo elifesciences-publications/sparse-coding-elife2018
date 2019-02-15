@@ -1,3 +1,8 @@
+
+
+
+### This code is associated with the paper from Tang et al., "Large-scale two-photon imaging revealed super-sparse population codes in the V1 superficial layer of awake monkeys". eLife, 2018. http://dx.doi.org/10.7554/eLife.33370
+
 # sparse-coding-elife2018
 
 <https://doi.org/10.7554/eLife.33370>
